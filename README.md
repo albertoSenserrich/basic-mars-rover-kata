@@ -1,2 +1,3 @@
 # basic-mars-rovers-kata
-Refactor cata performed some years ago
+Refactor kata performed some years ago
+https://kata-log.rocks/images/mars_rover.jpg
