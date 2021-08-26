@@ -1,0 +1,7 @@
+	1 2 N
+	LFLFLFLFF
+	3 3 E
+	FFRFFRFRRF
+	Expected Output:
+	1 3 N
+	5 1 E
